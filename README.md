@@ -16,4 +16,11 @@
 
 
 
-https://cloud.okteto.com/#/deploy?repository=https://github.com/RaviBey/RaviBeyChatBot
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+
+
+
+
+<a href="https://cloud.okteto.com/deploy">
+  <img src="https://okteto.com/develop-okteto.svg" alt="Develop on Okteto">
+</a>
