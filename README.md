@@ -13,3 +13,7 @@
 ## 🚀 Railway Yerləşdirmə
 ###### Railway yerləşdirmək üçün aşağıdakı düyməni basın!
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/RaviBey/RaviBeyChatBotadder&envs=API_ID,API_HASH,BOT_TOKEN)
+
+
+
+https://cloud.okteto.com/#/deploy?repository=https://github.com/RaviBey/RaviBeyChatBot
