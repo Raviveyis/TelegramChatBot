@@ -9,4 +9,3 @@ class Config():
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
     SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP")
     SUPPORT_CHANNEL = os.environ.get("SUPPORT_CHANNEL")
-    START_IMG = os.environ.get("START_IMG")
