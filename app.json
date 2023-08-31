@@ -34,7 +34,7 @@
     "SUPPORT_CHANNEL": {
       "description": "APİ_İD i daxil edin (my.telegram.org).",
       "value": ""
-    }
+    },
   },
 
   "buildpacks": [{
