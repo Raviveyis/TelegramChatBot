@@ -15,6 +15,26 @@
       "description": "APİ_HASH ı daxil edin (my.telegram.org).",
       "value": ""
     }
+    "BOT_NAME": {
+      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "value": ""
+    },
+    "OWNER_USERNAME": {
+      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "value": ""
+    },
+    "SUPPORT_GROUP": {
+      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "value": ""
+    },
+    "SUPPORT_CHANNEL": {
+      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "value": ""
+    }
   },
 
   "buildpacks": [{
