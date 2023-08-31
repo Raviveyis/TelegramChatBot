@@ -1,42 +1,41 @@
 {
-  "name": "Telegram Chat Bot",
-  "logo":"https://graph.org/file/ab7040a1ee81a25942d5e.jpg",
-  "description": "Bot ilə rahat şəkildə qruplardakı üzvələri isdediyini edə bilərsiz.",
+  "name": "Dejavu Tag Bot",
+  "logo":"https://te.legra.ph/file/9e5822e1e12f953f9a69c.jpg",
+  "description": "İstifadəçi tagger botu pulsuz üzvlərinizi etiketləyən bir botdur.",
   "env": {
     "BOT_TOKEN": {
-      "description": "@botfather dan aldiğınız BOT_TOKEN i daxil edin.",
+      "description": "@Botfather-dən Bot nişanı.",
       "value": ""
     },
-    "APP_ID": {
-      "description": "APİ_İD i daxil edin (my.telegram.org).",
+    "API_ID": {
+      "description": "Bu dəyəri https://my.telegram.org saytından əldə edin.",
       "value": ""
     },
     "API_HASH": {
-      "description": "APİ_HASH ı daxil edin (my.telegram.org).",
+      "description": "Bu dəyəri https://my.telegram.org saytından əldə edin.",
       "value": ""
-    }
+    },
     "BOT_NAME": {
-      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "description": "User Tag Botunuz üçün ad. Zəhmət olmasa ascii simvollarından istifadə etməyin.",
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "APİ_İD i daxil edin (my.telegram.org).",
-      "value": ""
-    },
-    "OWNER_USERNAME": {
-      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "description": "Botun ünvanını daxil edin.",
       "value": ""
     },
     "SUPPORT_GROUP": {
-      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "description": "Botun dəstək qrupuna daxil olun.",
       "value": ""
     },
     "SUPPORT_CHANNEL": {
-      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "description": "Botun dəstək kanalini daxil olun.",
       "value": ""
     },
+    "OWNER_USERNAME": {
+      "description": "Botun sahibinin ünvanını daxil edin.",
+      "value": ""
+    }
   },
-
   "buildpacks": [{
     "url": "https://github.com/heroku/heroku-buildpack-python.git"
   }]
