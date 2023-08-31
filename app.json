@@ -1,0 +1,23 @@
+{
+  "name": "Telegram Chat Bot",
+  "logo":"https://graph.org/file/ab7040a1ee81a25942d5e.jpg",
+  "description": "Bot ilə rahat şəkildə qruplardakı üzvələri isdediyini edə bilərsiz.",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "@botfather dan aldiğınız BOT_TOKEN i daxil edin.",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "APİ_İD i daxil edin (my.telegram.org).",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "APİ_HASH ı daxil edin (my.telegram.org).",
+      "value": ""
+    }
+  },
+
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
